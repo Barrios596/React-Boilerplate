@@ -14,7 +14,6 @@ export default class ServidorWeb {
                 })
             }
             catch(e){
-                console.error(e)
                 reject(e)
             }
         })
