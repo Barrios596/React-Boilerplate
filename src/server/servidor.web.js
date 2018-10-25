@@ -3,7 +3,7 @@ const express = require('express')
 export default class ServidorWeb {
     constructor (){
         this.app = express()
-        this.app.use(express.static('dist/public'))
+        this.app.use(express.static('dist/public'))  
     }
 
     start(){
@@ -27,7 +27,6 @@ export default class ServidorWeb {
                 })
             }
             catch(e){
-                console.error(e)
                 reject(e)
             }
         })
