@@ -10,6 +10,12 @@ Este proyecto es un _boilerplate_ del framework para desarrollo React JS. Consis
 	5. ESLint.
 	6. Express.
 
+Al hacer el tutorial, no tenía tanto conocimiento de web development :( así que me basé en algunos tutoriales para poder realizarlo:
+
+	1. https://medium.freecodecamp.org/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f
+	2. https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658
+	3. https://codeburst.io/react-redux-a-boilerplate-template-to-start-reacting-80e0349bef1
+
 ## Configuración del proyecto
 
 1. Instalar NodeJS: https://nodejs.org/
